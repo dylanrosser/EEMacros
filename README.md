@@ -12,5 +12,6 @@ Examples of each function are given in the upper left-hand corner of the spreads
 
 Example of how to use:
 
-If you want to return the full load amps of a 10 horsepower motor
+If you want to return the full load amps of a 10 horsepower motor.
+
 =FLA(10,480,3)
