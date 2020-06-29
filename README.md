@@ -5,5 +5,12 @@ produce the full load amps for certain AC motors, output residential unit demand
 
 The functions are based off the 2008 NEC but do not always apply to every situation and do not encompass every table. 
 If you are a professional electrical engineer using these functions to design electrical power systems, always compare the
-output values to the NEC and other applicable codes in your jurisdiction. I do not assume any liability for the accuracy, relevancy, or applicability
+output values to the NEC and other applicable codes in your jurisdiction. I do not assume any liability for the accuracy, relevancy, or applicability of
 these functions.
+
+Examples of each function are given in the upper left-hand corner of the spreadsheet.
+
+Example of how to use:
+
+=FLA(<horsepower>, <voltage>, <phase>)
+=FLA(10,480,3)
